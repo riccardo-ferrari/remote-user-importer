@@ -1,0 +1,3 @@
+" autoPassword"," password1"," password2"," autoScreenName"," screenName"," emailAddress"," facebookId"," openId"," locale"," firstName"," middleName"," lastName"," prefixId"," suffixId"," male"," birthdayMonth"," birthdayDay"," birthdayYear"," jobTitle"," groupIds"," organizationIds"," roleIds"," userGroupIds"," sendEmail"," expando1"
+"false","test","test","false","user01","user01@liferay.com",0,"","it","User",,"A",0,0,"true",1,1,1970,,,,,,"false","test_update"
+"false","test","test","false","user02","user02@liferay.com",0,"","en","User",,"B",0,0,"true",1,1,1970,,,,,,"false","test"
